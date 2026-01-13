@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Resale Profit Calculator",
+  "version": "1.0",
+  "description": "Quickly calculate resale profit and ROI.",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Resale Profit Calculator"
+  }
+}
